@@ -1,0 +1,22 @@
+{
+    abteilungen: {
+        format: "abteiluns-id: { vorgesetzter: ..., kostenstelle: ..., }",
+        1: {
+            vorgesetzter-id: 1,
+            vorname: Max,
+            nachname: Mustermann,
+            kostenstelle-id: 1,
+            kostenstelle-name: 'Kostenstelle A',
+        },
+    },
+    projekte: {
+        format: "projekt-id: { projektleiter: ...,  kostenstelle: ..., }",
+        1: {
+            projektleiter-id: 1,
+            vorname: Helga,
+            nachname: Musterfrau,
+            kostenstelle-id: 1,
+            kostenstelle-name: 'Kostenstelle B',
+        }
+    }
+}

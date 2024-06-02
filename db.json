@@ -1,6 +1,7 @@
 {
-    "abteilungen": [
+    "abteilung": [
         {
+            "id": 1,
             "vorgesetzter-id": 1,
             "vorname": "Max",
             "nachname": "Mustermann",
@@ -8,8 +9,9 @@
             "kostenstelle-name": "Kostenstelle A"
         }
     ],
-    "projekte": [
+    "projekt": [
         {
+            "id": 1,
             "projektleiter-id": 1,
             "vorname": "Helga",
             "nachname": "Musterfrau",

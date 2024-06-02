@@ -5,6 +5,7 @@
             "vorgesetzter-id": 1,
             "vorname": "Max",
             "nachname": "Mustermann",
+            "email": "cfe85330@vogco.com",
             "kostenstelle-id": 1,
             "kostenstelle-name": "Kostenstelle A"
         },
@@ -13,6 +14,7 @@
             "vorgesetzter-id": 2,
             "vorname": "Günter",
             "nachname": "Doe",
+            "email": "cfe85330@vogco.com",
             "kostenstelle-id": 3,
             "kostenstelle-name": "Kostenstelle C"
         }
@@ -23,6 +25,7 @@
             "projektleiter-id": 1,
             "vorname": "Helga",
             "nachname": "Musterfrau",
+            "email": "cfe85330@vogco.com",
             "kostenstelle-id": 2,
             "kostenstelle-name": "Kostenstelle B"
         },
@@ -31,6 +34,7 @@
             "projektleiter-id": 2,
             "vorname": "Foo",
             "nachname": "Bar",
+            "email": "cfe85330@vogco.com",
             "kostenstelle-id": 4,
             "kostenstelle-name": "Kostenstelle D"
         }

@@ -6,7 +6,7 @@
             "vorname": "Max",
             "nachname": "Mustermann",
             "email": "cfe85330@vogco.com",
-            "kostenstelle-id": 1,
+            "kostenstelleId": 1,
             "kostenstelle-name": "Kostenstelle A"
         },
         {
@@ -15,7 +15,7 @@
             "vorname": "Günter",
             "nachname": "Doe",
             "email": "cfe85330@vogco.com",
-            "kostenstelle-id": 3,
+            "kostenstelleId": 3,
             "kostenstelle-name": "Kostenstelle C"
         }
     ],
@@ -26,7 +26,7 @@
             "vorname": "Helga",
             "nachname": "Musterfrau",
             "email": "cfe85330@vogco.com",
-            "kostenstelle-id": 2,
+            "kostenstelleId": 2,
             "kostenstelle-name": "Kostenstelle B"
         },
         {
@@ -35,7 +35,7 @@
             "vorname": "Foo",
             "nachname": "Bar",
             "email": "cfe85330@vogco.com",
-            "kostenstelle-id": 4,
+            "kostenstelleId": 4,
             "kostenstelle-name": "Kostenstelle D"
         }
     ]
